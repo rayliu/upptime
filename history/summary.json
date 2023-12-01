@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eeda123.com.ico",
     "slug": "eeda123",
     "status": "up",
-    "uptime": "6.03%",
-    "uptimeDay": "6.03%",
-    "uptimeWeek": "6.03%",
-    "uptimeMonth": "6.03%",
-    "uptimeYear": "6.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 848,
     "timeDay": 848,
     "timeWeek": 848,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {
-      "2023-12-01": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fan.eeda123",
