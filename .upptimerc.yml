@@ -6,7 +6,7 @@ sites:
   - name: Logclub
     url: https://www.logclub.com
   - name: eeda123
-    url: https://www.eeda123.com
+    url: http://www.eeda123.com
   - name: fan.eeda123
     url: https://fan.eeda123.com
   - name: Google
