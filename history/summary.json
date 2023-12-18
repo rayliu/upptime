@@ -4,10 +4,10 @@
     "url": "https://www.logclub.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.logclub.com.ico",
     "slug": "logclub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 2009,
@@ -16,6 +16,7 @@
     "timeMonth": 2009,
     "timeYear": 2009,
     "dailyMinutesDown": {
+      "2023-12-18": 2,
       "2023-12-04": 19
     }
   },
@@ -24,10 +25,10 @@
     "url": "http://www.eeda123.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eeda123.com.ico",
     "slug": "eeda123",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 997,
@@ -35,25 +36,28 @@
     "timeWeek": 950,
     "timeMonth": 997,
     "timeYear": 997,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-18": 1
+    }
   },
   {
     "name": "fan.eeda123",
     "url": "https://fan.eeda123.com",
     "icon": "https://icons.duckduckgo.com/ip3/fan.eeda123.com.ico",
     "slug": "fan-eeda123",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 2600,
     "timeDay": 1534,
     "timeWeek": 1638,
     "timeMonth": 2600,
     "timeYear": 2600,
     "dailyMinutesDown": {
+      "2023-12-18": 0,
       "2023-12-06": 63,
       "2023-12-04": 18
     }
