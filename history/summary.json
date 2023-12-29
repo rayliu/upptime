@@ -6,7 +6,7 @@
     "slug": "logclub",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.40%",
@@ -16,6 +16,7 @@
     "timeMonth": 2002,
     "timeYear": 2002,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-21": 137,
       "2023-12-20": 69,
       "2023-12-18": 19,
