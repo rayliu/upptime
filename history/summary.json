@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.logclub.com.ico",
     "slug": "logclub",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 1998,
-    "timeDay": 1824,
+    "timeDay": 1790,
     "timeWeek": 1875,
     "timeMonth": 1998,
     "timeYear": 1998,
     "dailyMinutesDown": {
-      "2023-12-29": 8,
       "2023-12-21": 137,
       "2023-12-20": 69,
       "2023-12-18": 19,
@@ -28,9 +27,9 @@
     "url": "http://www.eeda123.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eeda123.com.ico",
     "slug": "eeda123",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +38,9 @@
     "timeWeek": 927,
     "timeMonth": 1427,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 0
+    }
   },
   {
     "name": "fan.eeda123",
