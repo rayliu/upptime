@@ -13,7 +13,7 @@
     "time": 2209,
     "timeDay": 1983,
     "timeWeek": 3144,
-    "timeMonth": 2430,
+    "timeMonth": 2438,
     "timeYear": 2209,
     "dailyMinutesDown": {
       "2024-03-28": 59,
@@ -83,19 +83,19 @@
     "url": "http://218.92.194.22:18090",
     "icon": "https://icons.duckduckgo.com/ip3/218.92.194.22.ico",
     "slug": "aks-download-page",
-    "status": "down",
-    "uptime": "86.72%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "86.72%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "86.72%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "85.74%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "85.74%",
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-04-02": 100
+      "2024-04-02": 109
     }
   }
 ]
