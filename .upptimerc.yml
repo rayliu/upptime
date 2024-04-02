@@ -9,6 +9,8 @@ sites:
     url: http://www.eeda123.com
   - name: fan.eeda123
     url: https://fan.eeda123.com
+  - name: aks download page
+    url: http://218.92.194.22:18090
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
