@@ -83,19 +83,19 @@
     "url": "http://218.92.194.22:18090",
     "icon": "https://icons.duckduckgo.com/ip3/218.92.194.22.ico",
     "slug": "aks-download-page",
-    "status": "down",
-    "uptime": "40.00%",
-    "uptimeDay": "40.00%",
-    "uptimeWeek": "40.00%",
-    "uptimeMonth": "40.00%",
-    "uptimeYear": "40.00%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "22.30%",
+    "uptimeDay": "22.30%",
+    "uptimeWeek": "22.30%",
+    "uptimeMonth": "22.30%",
+    "uptimeYear": "22.30%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-04-02": 43
+      "2024-04-02": 100
     }
   }
 ]
