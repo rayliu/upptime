@@ -13,7 +13,7 @@
     "time": 2459,
     "timeDay": 2023,
     "timeWeek": 2051,
-    "timeMonth": 2184,
+    "timeMonth": 2192,
     "timeYear": 2459,
     "dailyMinutesDown": {
       "2024-06-04": 126,
@@ -52,7 +52,7 @@
     "time": 1264,
     "timeDay": 1003,
     "timeWeek": 993,
-    "timeMonth": 1016,
+    "timeMonth": 1015,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2024-03-28": 30
@@ -72,7 +72,7 @@
     "time": 1823,
     "timeDay": 1786,
     "timeWeek": 1685,
-    "timeMonth": 1692,
+    "timeMonth": 1690,
     "timeYear": 1823,
     "dailyMinutesDown": {
       "2024-04-25": 27,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/218.92.194.22.ico",
     "slug": "aks-download-page",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "98.92%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.77%",
     "time": 465,
     "timeDay": 476,
     "timeWeek": 450,
-    "timeMonth": 446,
+    "timeMonth": 445,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2024-06-19": 16,
