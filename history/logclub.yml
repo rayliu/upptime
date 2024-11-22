@@ -1,7 +1,7 @@
 url: https://www.logclub.com
-status: up
-code: 200
-responseTime: 1969
-lastUpdated: 2024-11-21T23:12:49.826Z
+status: down
+code: 500
+responseTime: 5350
+lastUpdated: 2024-11-22T12:39:20.676Z
 startTime: 2023-12-01T01:18:11.687Z
 generator: Upptime <https://github.com/upptime/upptime>
