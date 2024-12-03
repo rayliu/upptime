@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.53%",
-    "time": 2434,
-    "timeDay": 2015,
-    "timeWeek": 2024,
-    "timeMonth": 2300,
-    "timeYear": 2437,
+    "time": 2433,
+    "timeDay": 2209,
+    "timeWeek": 2051,
+    "timeMonth": 2307,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2024-11-22": 27,
       "2024-11-11": 22,
@@ -53,8 +53,7 @@
       "2023-12-31": 17,
       "2023-12-21": 137,
       "2023-12-20": 69,
-      "2023-12-18": 19,
-      "2023-12-04": 19
+      "2023-12-18": 19
     }
   },
   {
@@ -69,10 +68,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1265,
-    "timeDay": 1266,
-    "timeWeek": 1044,
-    "timeMonth": 1137,
-    "timeYear": 1268,
+    "timeDay": 1272,
+    "timeWeek": 1077,
+    "timeMonth": 1139,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2024-11-22": 26,
       "2024-10-27": 24,
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.65%",
-    "time": 1867,
-    "timeDay": 2075,
-    "timeWeek": 1714,
-    "timeMonth": 1788,
-    "timeYear": 1868,
+    "time": 1868,
+    "timeDay": 2247,
+    "timeWeek": 1789,
+    "timeMonth": 1801,
+    "timeYear": 1870,
     "dailyMinutesDown": {
       "2024-11-22": 25,
       "2024-10-11": 19,
@@ -109,8 +108,7 @@
       "2024-01-26": 192,
       "2024-01-25": 1379,
       "2023-12-18": 17,
-      "2023-12-06": 63,
-      "2023-12-04": 18
+      "2023-12-06": 63
     }
   },
   {
@@ -119,18 +117,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/218.92.194.22.ico",
     "slug": "aks-download-page",
     "status": "down",
-    "uptime": "40.05%",
+    "uptime": "39.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.05%",
+    "uptimeYear": "39.89%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-12-02": 98,
+      "2024-12-03": 96,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
